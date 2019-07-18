@@ -1,4 +1,6 @@
-#Space Invaders Part 1
+#Space Invaders
+#Created by @Christian Thompson, modified by @CooperR97
+#Original game can be found at https://www.youtube.com/watch?v=crV6T3piwHQ&t=4s
 #Set up the screen
 import turtle
 import os
